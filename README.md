@@ -24,5 +24,5 @@ Nothing more than **yet another three-in-a-row**.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * I've never learned flutter, but it's somewhat similar to react<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Still, the code is a mess of hacks<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Optimized for the sceen-size of iphone 7.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * This work inspired to draw some [pixel-art](https://www.deviantart.com/bugzmanov/gallery) just for fun
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * This work inspired me to draw some [pixel-art](https://www.deviantart.com/bugzmanov/gallery) for fun
 <br clear="left"/>

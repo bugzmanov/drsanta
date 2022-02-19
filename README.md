@@ -1,4 +1,4 @@
-# Dr Santa
+# Dr. Santa
 
 
 This was my tiny project for Christmas Holidays back in 2019. 

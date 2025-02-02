@@ -11,14 +11,14 @@ Nothing more than **yet another three-in-a-row**.
 
 
 
-### The challenge:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>The challenge: </b>
 <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#10003] complete it within a holiday break<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#10003] draw all assets from scratch (they are heavily inspired, but still)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#10003] Stay under 1000 lines of code
 </div>
-
-#### Notes
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> Notes </b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Using [Dart](https://dart.dev/) + [Flutter](https://flutter.dev/) + [Flame Engine](https://flame-engine.org/)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * I've never learned dart, but it's very similar to java<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * I've never learned flutter, but it's somewhat similar to react<br/>

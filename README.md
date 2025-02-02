@@ -19,10 +19,10 @@ Nothing more than **yet another three-in-a-row**.
 </div>
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> Notes </b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Using [Dart](https://dart.dev/) + [Flutter](https://flutter.dev/) + [Flame Engine](https://flame-engine.org/)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Using <a href="https://dart.dev/">Dart</a> + <a href="https://flutter.dev/">Flutter</a> + <a href="https://flame-engine.org/">Flame Engine</a><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * I've never learned dart, but it's very similar to java<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * I've never learned flutter, but it's somewhat similar to react<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Still, the code is a mess of hacks<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Optimized for the sceen-size of iphone 7.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * This work inspired me to draw some [pixel-art](https://www.deviantart.com/bugzmanov/gallery) for fun
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * This work inspired me to draw some <a href="https://www.deviantart.com/bugzmanov/gallery">pixel-art</a> for fun
 <br clear="left"/>
